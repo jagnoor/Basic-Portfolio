@@ -1,0 +1,25 @@
+
+body {
+    background-image: url("assets/images/straws.png")
+}
+
+    h1 {
+        color:aquamarine;
+        background-color: black;
+        font: bolder;
+        text-align: left;
+        }
+       
+    img {
+
+        float: left;
+    }
+ 
+    }            
+    div {
+        float:right;
+    }
+    h2 {
+        float:Left;
+        }
+       
