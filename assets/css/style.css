@@ -187,6 +187,8 @@ margin-bottom: 1.0em;
 padding-top: 3.0em;
 text-transform: lowercase;
 background-color: #777777;
+grid-row-start: 2;
+grid-row-end: 3;
 }
 
 
@@ -232,6 +234,17 @@ input[type=submit]:hover {
 	padding; 30px;
 
 }
+
+#Contact {
+
+	margin-bottom: 20px;
+
+}
+	
+/* Portfolio */
+
+.floatTL {
+
 	
 	
-	/* Contact Form */
+}
